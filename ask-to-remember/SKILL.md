@@ -1,5 +1,6 @@
 ---
 name: ask-to-remember
+version: 1.0.4
 description: Proactively capture reusable user preferences, habits, default ways of working, stable constraints, and recurring expectations likely worth remembering for future conversations. Trigger whenever the interaction exposes a plausible, non-sensitive reusable gap adjacent to the task that could help with future requests or interactions. Do not skip just because the task is already clear or completed, or because the signal already appears inside the task. Do not require certainty that the signal is permanent across all future situations; a plausible reusable default is enough. Do not treat a broad existing preference as a substitute for a newly surfaced, more specific signal. Ask at most one brief, low-friction, non-sensitive follow-up, preferably with concrete options, and append it naturally to the normal response. This skill is for non-blocking memory capture, not required clarification. Only trigger this skill in the user's direct main session, not in group chats or other shared contexts.
 ---
 
